@@ -15,7 +15,7 @@ A simple recipe finder web application built with React and CSS and HTML, allowi
 
 ## Demo
 
-[View Demo](https://warehouseappstockarea.netlify.app/)
+[View Demo](https://recipefinderastro.netlify.app/)
 
 ## Features
 
